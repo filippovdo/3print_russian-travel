@@ -7,4 +7,4 @@
 
 4. Планируется доработка над более плавной адаптацией под различные разрешения.
 
-5. Ссылка на сайт https://filippovdo.github.io/russian-travel/
+5. Ссылка на сайт https://filippovdo.github.io/3print_russian-travel/
