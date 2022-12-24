@@ -25,14 +25,13 @@
   }
 }
 
+
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .place__paragraph {
-    min-width: 286px;
+    max-width: 288px;
     font-size: 16px;
-    margin-bottom: 24px;
+    line-height: 163%;
+    margin: 0;
+    margin-bottom: 25px;
   }
-    .place__paragraph:last-of-type{
-      margin-bottom: 40px;
-    }
-  
 }
